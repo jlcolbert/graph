@@ -1,3 +1,8 @@
 .cp__sidebar-help-btn {
   display:none;
 }
+
+/* Wrap text in query table */
+td {
+    white-space: pre-wrap !important;
+}
